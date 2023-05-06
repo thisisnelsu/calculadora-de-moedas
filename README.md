@@ -31,9 +31,9 @@ O meu projeto consiste em uma calculadora automática, que, dado um valor em Rea
 * APIs (Axios e AwesomeAPI);
 
 ## :rocket: Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+Para rodar o repositório, clone-o em sua plataforma, e abra o arquivo index.html
 ```
-<linha de comando>
+git@github.com:thisisnelsu/conversor-de-dolar.git
 ```
 ## :dart: Status do projeto
 Concluído, porém sujeito a alterações futuras.
